@@ -1,0 +1,4 @@
+/home/moritz/linux-utils/
+/home/moritz/HDW-HaltDeinWort/
+/home/moritz/HOMESERVER-temptrack-config-server  
+/home/moritz/HOMESERVER-temptrack-gui-server
